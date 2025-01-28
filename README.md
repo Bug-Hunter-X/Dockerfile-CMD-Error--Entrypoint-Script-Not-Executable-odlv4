@@ -1,0 +1,1 @@
+This repository demonstrates a common Dockerfile error where the entrypoint script isn't made executable before being used in a `CMD` instruction. The `Dockerfile` contains the error, while `Dockerfile_fixed` provides the correct solution. The main.py file is a simple Python script for demonstration purposes.
